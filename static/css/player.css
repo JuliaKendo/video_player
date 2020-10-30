@@ -10,7 +10,9 @@
 .container{
   flex-grow: 1;
 }
-.fixed-controls{
+.button-bar-row{
+  display: flex;
+  flex-direction: row;
   flex-grow: 0;
   background-color: black;
 }
@@ -20,16 +22,11 @@
   color: white;
   background-color: transparent;
   font-size: large;
-  margin: 5px;
-}
-.row-flexible-buttons{
-  display: flex;
-  flex-direction: row;
+  margin: 3px;
 }
 .expandable-area{
   flex-grow: 1;
 }
-.tight-red-progress{
+.progress-bar-red{
   background-color: red;
-  line-height: 2px;
 }
