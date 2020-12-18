@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 
 ```
-livereload -w 10 player
+livereload -w 10 docs
 ```
 
 После запуска переходите по ссылке [127.0.0.1:35729](http://127.0.0.1:35729), и увидите видеоплеер на главной странице.
