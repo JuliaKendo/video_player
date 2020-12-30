@@ -6,6 +6,8 @@
   height: 600px;
   resize: both;
   overflow: hidden;
+  margin-top: 11px;
+  margin-left: 4px;
 }
 .player-box{
   flex-grow: 1;
@@ -15,14 +17,14 @@
   flex-direction: row;
   flex-grow: 0;
   background-color: black;
+  height: 41px;
 }
 .player-button-large-transparent{
   flex-grow: 0;
   border-style: none;
   color: white;
   background-color: transparent;
-  font-size: large;
-  margin: 3px;
+  font-size: 19.5px;
 }
 .player-expandable-box{
   flex-grow: 1;
