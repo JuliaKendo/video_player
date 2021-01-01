@@ -41,5 +41,7 @@
 .player-progress-bar{
   flex-grow: 1;
   align-self: center;
-  background-color: red;
+  height: 5px;
+  margin: 9px;
+  border-radius: 20px;
 }
