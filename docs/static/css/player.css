@@ -27,8 +27,19 @@
   font-size: 19.5px;
 }
 .player-expandable-box{
+  display: flex;
   flex-grow: 1;
 }
+.player-time-box{
+  flex-grow: 0;
+  align-self: center;
+}
+.player-duration-box{
+  flex-grow: 0;
+  align-self: center;
+}
 .player-progress-bar{
+  flex-grow: 1;
+  align-self: center;
   background-color: red;
 }
