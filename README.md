@@ -1,8 +1,8 @@
 # Видеоплеер
 
-Рабочий прототип видеоплеера на [сайте](https://juliakendo.github.io/video_player/docs/). 
+Рабочий прототип видеоплеера на [сайте](https://juliakendo.github.io/video_player/). 
 
-![Demo](player-demo.gif)
+![Demo](new-player-demo.gif)
 
 ## Установка
 
